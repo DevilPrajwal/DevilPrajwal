@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi, I'm Prajwal Belkhode 👋
 
-I'm an Implementation & Quality Engineer with 3.5 years in the **telecom domain**, transitioning into a full **SDET** role. <br>My background spans the entire delivery lifecycle — test strategy, API and load testing, multi-environment deployments, third-party integrations, and customer-facing UAT. I've handled 10+ production deployments and end-to-end client implementations, which means I know what quality means when it actually ships.
+I'm an Implementation & Quality Engineer with almost 4 years in the **telecom and IoT domain**, transitioning into a full **SDET** role. <br>My background spans the entire delivery lifecycle — test strategy, API and load testing, multi-environment deployments, third-party integrations, and customer-facing UAT. I've handled 10+ production deployments and end-to-end client implementations, which means I know what quality means when it actually ships.
 
 
 ## 🌐 Socials:
